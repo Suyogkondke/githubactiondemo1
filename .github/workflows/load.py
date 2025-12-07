@@ -1,0 +1,1 @@
+print("LOad data from mysql")
